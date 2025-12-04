@@ -1,4 +1,4 @@
-# MRS Stream Deck Profile - Minimal Package
+# MRS Stream Deck Profile
 
 This package contains **ONLY** what's needed to use the Stream Deck profile.
 
