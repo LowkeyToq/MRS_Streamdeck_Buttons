@@ -62,3 +62,9 @@ Example output: `🅿️1️⃣ STANDBY <t:1733342123:R>` (shows "X minutes ago"
 
 **10 Pages** with text macros, queue positions, and status buttons.
 See the profile in Stream Deck software for full layout.
+
+## Credit
+- Team lead copy-pastas by Poptic
+- Stream Deck MK.2 layout by [Lübbi](https://github.com/luebbi5000)
+- Source animated icons created by [Freepik](https://www.flaticon.com/authors/freepik)
+  - Modified and adjusted to "Medrunner style" buttons by LowkeyToq
