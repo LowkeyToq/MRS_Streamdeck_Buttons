@@ -19,10 +19,17 @@ The Discord status scripts generate formatted Discord messages with custom emoji
 
 ## Installation
 
-### Quick Setup (Recommended)
+## Requirements
+- A Stream Deck device, either physical or virtual
+- Stream Deck software [(latest version)]((https://www.elgato.com/ww/en/s/downloads))
+- Windows with PowerShell
+- No additional configuration needed!
 
+### Quick Setup (Recommended)
+> [!NOTE]
+> Currently, only the MK.2 and XL formats are supported when you import, so it is recommended to create a virtual Stream Deck device in size 8x4 before importing the profile, then moving the buttons to your own custom layout.<br><br>We plan to share more pre-made layouts with time.
 1. Extract this package to `C:\StreamDeck\`
-2. Double-click `MRS-XL.streamDeckProfile` to import
+2. Double-click `MRS-[your_preferred_layout].streamDeckProfile` to import
 3. Done! The buttons will work automatically.
 
 ### Custom Location Setup
@@ -44,15 +51,7 @@ If you extract elsewhere (e.g., `D:\MyFiles\StreamDeck\`):
 
 Example output: `🅿️1️⃣ STANDBY <t:1733342123:R>` (shows "X minutes ago")
 
-## Requirements
-
-- Stream Deck XL (4x8 layout)
-- Stream Deck software (latest version)
-- Windows with PowerShell
-- No additional configuration needed!
-
 ## Notes
-
 - Scripts are **self-contained** - no webhooks, databases, or config files needed
 - Status messages use Discord's custom emoji format
 - Timestamps update automatically based on when you press the button
